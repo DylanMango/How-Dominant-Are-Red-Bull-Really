@@ -1,0 +1,363 @@
+Pos,Driver,Car,Time
+1,Rubens Barrichello BAR,Ferrari,25.843
+2,Michael Schumacher MSC,Ferrari,25.848
+3,Ralf Schumacher RSC,Williams BMW,26.279
+4,David Coulthard COU,McLaren Mercedes,26.446
+5,Kimi Räikkönen RAI,McLaren Mercedes,27.161
+6,Juan Pablo Montoya MOY,Williams BMW,27.249
+7,Jarno Trulli TRU,Renault,27.710
+8,Giancarlo Fisichella FIS,Jordan Honda,27.869
+9,Felipe Massa MAS,Sauber Petronas,27.972
+10,Nick Heidfeld HEI,Sauber Petronas,28.232
+11,Jenson Button BUT,Renault,28.361
+12,Olivier Panis PAN,BAR Honda,28.381
+13,Jacques Villeneuve VIL,BAR Honda,28.657
+14,Mika Salo SAL,Toyota,29.205
+15,Heinz-Harald Frentzen FRE,Arrows Cosworth,29.474
+16,Allan McNish MCN,Toyota,29.636
+17,Enrique Bernoldi BER,Arrows Cosworth,29.738
+18,Mark Webber WEB,Minardi Asiatech,30.086
+19,Eddie Irvine IRV,Jaguar Cosworth,30.113
+20,Pedro de la Rosa DLR,Jaguar Cosworth,30.192
+21,Alex Yoong YOO,Minardi Asiatech,31.504
+NC,Takuma Sato SAT,Jordan Honda,53.351
+1,Michael Schumacher MSC,Ferrari,35.266
+2,Juan Pablo Montoya MOY,Williams BMW,35.497
+3,Rubens Barrichello BAR,Ferrari,35.891
+4,Ralf Schumacher RSC,Williams BMW,36.028
+5,Kimi Räikkönen RAI,McLaren Mercedes,36.468
+6,David Coulthard COU,McLaren Mercedes,36.477
+7,Nick Heidfeld HEI,Sauber Petronas,37.199
+8,Jenson Button BUT,Renault,37.245
+9,Giancarlo Fisichella FIS,Jordan Honda,37.536
+10,Mika Salo SAL,Toyota,37.694
+11,Heinz-Harald Frentzen FRE,Arrows Cosworth,37.919
+12,Jarno Trulli TRU,Renault,37.920
+13,Jacques Villeneuve VIL,BAR Honda,38.039
+14,Felipe Massa MAS,Sauber Petronas,38.057
+15,Takuma Sato SAT,Jordan Honda,38.141
+16,Enrique Bernoldi BER,Arrows Cosworth,38.284
+17,Pedro de la Rosa DLR,Jaguar Cosworth,38.374
+18,Olivier Panis PAN,BAR Honda,38.390
+19,Allan McNish MCN,Toyota,38.959
+20,Eddie Irvine IRV,Jaguar Cosworth,39.121
+21,Mark Webber WEB,Minardi Asiatech,39.454
+22,Alex Yoong YOO,Minardi Asiatech,40.158
+1,Juan Pablo Montoya MOY,Williams BMW,13.114
+2,Michael Schumacher MSC,Ferrari,13.241
+3,Ralf Schumacher RSC,Williams BMW,13.328
+4,David Coulthard COU,McLaren Mercedes,13.565
+5,Kimi Räikkönen RAI,McLaren Mercedes,13.595
+6,Jarno Trulli TRU,Renault,13.611
+7,Jenson Button BUT,Renault,13.665
+8,Rubens Barrichello BAR,Ferrari,13.935
+9,Nick Heidfeld HEI,Sauber Petronas,14.233
+10,Mika Salo SAL,Toyota,14.443
+11,Pedro de la Rosa DLR,Jaguar Cosworth,14.464
+12,Felipe Massa MAS,Sauber Petronas,14.533
+13,Eddie Irvine IRV,Jaguar Cosworth,14.537
+14,Giancarlo Fisichella FIS,Jordan Honda,14.748
+15,Jacques Villeneuve VIL,BAR Honda,14.760
+16,Allan McNish MCN,Toyota,14.990
+17,Olivier Panis PAN,BAR Honda,14.996
+18,Heinz-Harald Frentzen FRE,Arrows Cosworth,15.112
+19,Takuma Sato SAT,Jordan Honda,15.296
+20,Mark Webber WEB,Minardi Asiatech,15.340
+21,Enrique Bernoldi BER,Arrows Cosworth,15.355
+22,Alex Yoong YOO,Minardi Asiatech,16.728
+1,Michael Schumacher MSC,Ferrari,21.091
+2,Rubens Barrichello BAR,Ferrari,21.155
+3,Ralf Schumacher RSC,Williams BMW,21.473
+4,Juan Pablo Montoya MOY,Williams BMW,21.605
+5,Kimi Räikkönen RAI,McLaren Mercedes,22.104
+6,David Coulthard COU,McLaren Mercedes,22.490
+7,Nick Heidfeld HEI,Sauber Petronas,22.767
+8,Jarno Trulli TRU,Renault,22.833
+9,Jenson Button BUT,Renault,22.857
+10,Jacques Villeneuve VIL,BAR Honda,23.116
+11,Felipe Massa MAS,Sauber Petronas,23.681
+12,Olivier Panis PAN,BAR Honda,23.821
+13,Heinz-Harald Frentzen FRE,Arrows Cosworth,23.862
+14,Takuma Sato SAT,Jordan Honda,24.050
+15,Giancarlo Fisichella FIS,Jordan Honda,24.253
+16,Mika Salo SAL,Toyota,24.328
+17,Allan McNish MCN,Toyota,24.331
+18,Eddie Irvine IRV,Jaguar Cosworth,24.579
+19,Mark Webber WEB,Minardi Asiatech,24.790
+20,Enrique Bernoldi BER,Arrows Cosworth,24.808
+21,Pedro de la Rosa DLR,Jaguar Cosworth,24.852
+NC,Alex Yoong YOO,Minardi Asiatech,27.241
+1,Michael Schumacher MSC,Ferrari,16.364
+2,Rubens Barrichello BAR,Ferrari,16.690
+3,Ralf Schumacher RSC,Williams BMW,17.277
+4,Juan Pablo Montoya MOY,Williams BMW,17.425
+5,Kimi Räikkönen RAI,McLaren Mercedes,17.519
+6,Jenson Button BUT,Renault,17.638
+7,David Coulthard COU,McLaren Mercedes,17.662
+8,Nick Heidfeld HEI,Sauber Petronas,17.851
+9,Jarno Trulli TRU,Renault,17.929
+10,Heinz-Harald Frentzen FRE,Arrows Cosworth,18.121
+11,Felipe Massa MAS,Sauber Petronas,18.139
+12,Giancarlo Fisichella FIS,Jordan Honda,18.291
+13,Olivier Panis PAN,BAR Honda,18.472
+14,Enrique Bernoldi BER,Arrows Cosworth,18.515
+15,Jacques Villeneuve VIL,BAR Honda,18.847
+16,Pedro de la Rosa DLR,Jaguar Cosworth,18.885
+17,Mika Salo SAL,Toyota,18.897
+18,Takuma Sato SAT,Jordan Honda,19.002
+19,Allan McNish MCN,Toyota,19.025
+20,Mark Webber WEB,Minardi Asiatech,19.802
+21,Alex Yoong YOO,Minardi Asiatech,21.415
+1,Rubens Barrichello BAR,Ferrari,08.082
+2,Ralf Schumacher RSC,Williams BMW,08.364
+3,Michael Schumacher MSC,Ferrari,08.704
+4,Juan Pablo Montoya MOY,Williams BMW,09.118
+5,Nick Heidfeld HEI,Sauber Petronas,09.129
+6,Kimi Räikkönen RAI,McLaren Mercedes,09.154
+7,Felipe Massa MAS,Sauber Petronas,09.228
+8,David Coulthard COU,McLaren Mercedes,09.335
+9,Olivier Panis PAN,BAR Honda,09.561
+10,Mika Salo SAL,Toyota,09.661
+11,Heinz-Harald Frentzen FRE,Arrows Cosworth,09.671
+12,Enrique Bernoldi BER,Arrows Cosworth,09.723
+13,Jenson Button BUT,Renault,09.780
+14,Allan McNish MCN,Toyota,09.818
+15,Giancarlo Fisichella FIS,Jordan Honda,09.901
+16,Jarno Trulli TRU,Renault,09.980
+17,Jacques Villeneuve VIL,BAR Honda,10.051
+18,Takuma Sato SAT,Jordan Honda,10.058
+19,Pedro de la Rosa DLR,Jaguar Cosworth,10.533
+20,Eddie Irvine IRV,Jaguar Cosworth,10.741
+21,Mark Webber WEB,Minardi Asiatech,11.388
+22,Alex Yoong YOO,Minardi Asiatech,12.336
+1,Juan Pablo Montoya MOY,Williams BMW,16.676
+2,David Coulthard COU,McLaren Mercedes,17.068
+3,Michael Schumacher MSC,Ferrari,17.118
+4,Ralf Schumacher RSC,Williams BMW,17.274
+5,Rubens Barrichello BAR,Ferrari,17.357
+6,Kimi Räikkönen RAI,McLaren Mercedes,17.660
+7,Jarno Trulli TRU,Renault,17.710
+8,Jenson Button BUT,Renault,18.132
+9,Mika Salo SAL,Toyota,18.234
+10,Allan McNish MCN,Toyota,18.292
+11,Giancarlo Fisichella FIS,Jordan Honda,18.342
+12,Heinz-Harald Frentzen FRE,Arrows Cosworth,18.607
+13,Felipe Massa MAS,Sauber Petronas,19.006
+14,Jacques Villeneuve VIL,BAR Honda,19.252
+15,Enrique Bernoldi BER,Arrows Cosworth,19.412
+16,Takuma Sato SAT,Jordan Honda,19.461
+17,Nick Heidfeld HEI,Sauber Petronas,19.500
+18,Olivier Panis PAN,BAR Honda,19.569
+19,Mark Webber WEB,Minardi Asiatech,19.674
+20,Pedro de la Rosa DLR,Jaguar Cosworth,19.796
+21,Eddie Irvine IRV,Jaguar Cosworth,20.139
+22,Alex Yoong YOO,Minardi Asiatech,21.599
+1,Juan Pablo Montoya MOY,Williams BMW,12.836
+2,Michael Schumacher MSC,Ferrari,13.018
+3,Rubens Barrichello BAR,Ferrari,13.280
+4,Ralf Schumacher RSC,Williams BMW,13.301
+5,Kimi Räikkönen RAI,McLaren Mercedes,13.898
+6,Giancarlo Fisichella FIS,Jordan Honda,14.132
+7,Nick Heidfeld HEI,Sauber Petronas,14.139
+8,David Coulthard COU,McLaren Mercedes,14.385
+9,Jacques Villeneuve VIL,BAR Honda,14.564
+10,Jarno Trulli TRU,Renault,14.688
+11,Olivier Panis PAN,BAR Honda,14.713
+12,Felipe Massa MAS,Sauber Petronas,14.823
+13,Jenson Button BUT,Renault,14.854
+14,Eddie Irvine IRV,Jaguar Cosworth,14.882
+15,Takuma Sato SAT,Jordan Honda,14.940
+16,Pedro de la Rosa DLR,Jaguar Cosworth,15.089
+17,Enrique Bernoldi BER,Arrows Cosworth,15.102
+18,Mika Salo SAL,Toyota,15.111
+19,Heinz-Harald Frentzen FRE,Arrows Cosworth,15.115
+20,Allan McNish MCN,Toyota,15.321
+21,Mark Webber WEB,Minardi Asiatech,15.508
+22,Alex Yoong YOO,Minardi Asiatech,17.347
+1,Juan Pablo Montoya MOY,Williams BMW,29.906
+2,Ralf Schumacher RSC,Williams BMW,29.915
+3,Michael Schumacher MSC,Ferrari,30.035
+4,Rubens Barrichello BAR,Ferrari,30.387
+5,David Coulthard COU,McLaren Mercedes,30.550
+6,Kimi Räikkönen RAI,McLaren Mercedes,30.591
+7,Jarno Trulli TRU,Renault,30.927
+8,Jenson Button BUT,Renault,31.136
+9,Nick Heidfeld HEI,Sauber Petronas,31.211
+10,Mika Salo SAL,Toyota,31.389
+11,Felipe Massa MAS,Sauber Petronas,31.733
+12,Olivier Panis PAN,BAR Honda,31.906
+13,Allan McNish MCN,Toyota,31.941
+14,Takuma Sato SAT,Jordan Honda,31.999
+15,Heinz-Harald Frentzen FRE,Arrows Cosworth,32.144
+16,Pedro de la Rosa DLR,Jaguar Cosworth,32.281
+17,Eddie Irvine IRV,Jaguar Cosworth,32.510
+18,Giancarlo Fisichella FIS,Jordan Honda,32.591
+19,Jacques Villeneuve VIL,BAR Honda,32.968
+20,Mark Webber WEB,Minardi Asiatech,32.996
+21,Enrique Bernoldi BER,Arrows Cosworth,33.360
+22,Alex Yoong YOO,Minardi Asiatech,34.251
+1,Juan Pablo Montoya MOY,Williams BMW,18.998
+2,Rubens Barrichello BAR,Ferrari,19.032
+3,Michael Schumacher MSC,Ferrari,19.042
+4,Ralf Schumacher RSC,Williams BMW,19.329
+5,Kimi Räikkönen RAI,McLaren Mercedes,20.133
+6,David Coulthard COU,McLaren Mercedes,20.315
+7,Jarno Trulli TRU,Renault,20.516
+8,Mika Salo SAL,Toyota,20.995
+9,Jacques Villeneuve VIL,BAR Honda,21.130
+10,Nick Heidfeld HEI,Sauber Petronas,21.187
+11,Felipe Massa MAS,Sauber Petronas,21.191
+12,Jenson Button BUT,Renault,21.247
+13,Olivier Panis PAN,BAR Honda,21.274
+14,Takuma Sato SAT,Jordan Honda,21.337
+15,Allan McNish MCN,Toyota,21.382
+16,Heinz-Harald Frentzen FRE,Arrows Cosworth,21.416
+17,Giancarlo Fisichella FIS,Jordan Honda,21.636
+18,Enrique Bernoldi BER,Arrows Cosworth,21.780
+19,Eddie Irvine IRV,Jaguar Cosworth,21.851
+20,Mark Webber WEB,Minardi Asiatech,22.281
+21,Pedro de la Rosa DLR,Jaguar Cosworth,23.422
+NC,Alex Yoong YOO,Minardi Asiatech,24.785
+1,Juan Pablo Montoya MOY,Williams BMW,11.985
+2,Michael Schumacher MSC,Ferrari,12.008
+3,Rubens Barrichello BAR,Ferrari,12.197
+4,Kimi Räikkönen RAI,McLaren Mercedes,12.244
+5,Ralf Schumacher RSC,Williams BMW,12.424
+6,David Coulthard COU,McLaren Mercedes,12.498
+7,Jenson Button BUT,Renault,12.761
+8,Jarno Trulli TRU,Renault,13.030
+9,Eddie Irvine IRV,Jaguar Cosworth,13.188
+10,Nick Heidfeld HEI,Sauber Petronas,13.370
+11,Olivier Panis PAN,BAR Honda,13.457
+12,Felipe Massa MAS,Sauber Petronas,13.501
+13,Jacques Villeneuve VIL,BAR Honda,13.506
+14,Takuma Sato SAT,Jordan Honda,13.542
+15,Pedro de la Rosa DLR,Jaguar Cosworth,13.656
+16,Mika Salo SAL,Toyota,13.837
+17,Allan McNish MCN,Toyota,13.949
+18,Mark Webber WEB,Minardi Asiatech,14.800
+19,Alex Yoong YOO,Minardi Asiatech,16.798
+NC,Heinz-Harald Frentzen FRE,Arrows Cosworth,18.497
+NC,Enrique Bernoldi BER,Arrows Cosworth,19.843
+1,Michael Schumacher MSC,Ferrari,14.389
+2,Ralf Schumacher RSC,Williams BMW,14.570
+3,Rubens Barrichello BAR,Ferrari,14.693
+4,Juan Pablo Montoya MOY,Williams BMW,15.108
+5,Kimi Räikkönen RAI,McLaren Mercedes,15.639
+6,Giancarlo Fisichella FIS,Jordan Honda,15.690
+7,Olivier Panis PAN,BAR Honda,15.851
+8,Jarno Trulli TRU,Renault,15.885
+9,David Coulthard COU,McLaren Mercedes,15.909
+10,Nick Heidfeld HEI,Sauber Petronas,15.990
+11,Jacques Villeneuve VIL,BAR Honda,16.070
+12,Takuma Sato SAT,Jordan Honda,16.072
+13,Jenson Button BUT,Renault,16.278
+14,Felipe Massa MAS,Sauber Petronas,16.351
+15,Heinz-Harald Frentzen FRE,Arrows Cosworth,16.505
+16,Eddie Irvine IRV,Jaguar Cosworth,16.533
+17,Allan McNish MCN,Toyota,16.594
+18,Enrique Bernoldi BER,Arrows Cosworth,16.645
+19,Mika Salo SAL,Toyota,16.685
+20,Pedro de la Rosa DLR,Jaguar Cosworth,17.077
+21,Mark Webber WEB,Minardi Asiatech,17.996
+NC,Alex Yoong YOO,Minardi Asiatech,19.775
+1,Rubens Barrichello BAR,Ferrari,13.333
+2,Michael Schumacher MSC,Ferrari,13.392
+3,Ralf Schumacher RSC,Williams BMW,13.746
+4,Juan Pablo Montoya MOY,Williams BMW,14.706
+5,Giancarlo Fisichella FIS,Jordan Honda,14.880
+6,Jarno Trulli TRU,Renault,14.980
+7,Felipe Massa MAS,Sauber Petronas,15.047
+8,Nick Heidfeld HEI,Sauber Petronas,15.129
+9,Jenson Button BUT,Renault,15.214
+10,David Coulthard COU,McLaren Mercedes,15.223
+11,Kimi Räikkönen RAI,McLaren Mercedes,15.243
+12,Olivier Panis PAN,BAR Honda,15.556
+13,Jacques Villeneuve VIL,BAR Honda,15.583
+14,Takuma Sato SAT,Jordan Honda,15.804
+15,Pedro de la Rosa DLR,Jaguar Cosworth,15.867
+16,Eddie Irvine IRV,Jaguar Cosworth,16.419
+17,Mika Salo SAL,Toyota,16.473
+18,Allan McNish MCN,Toyota,16.626
+19,Mark Webber WEB,Minardi Asiatech,17.428
+20,Anthony Davidson DAV,Minardi Asiatech,17.959
+1,Michael Schumacher MSC,Ferrari,43.726
+2,Kimi Räikkönen RAI,McLaren Mercedes,44.150
+3,Rubens Barrichello BAR,Ferrari,44.335
+4,Ralf Schumacher RSC,Williams BMW,44.348
+5,Juan Pablo Montoya MOY,Williams BMW,44.634
+6,David Coulthard COU,McLaren Mercedes,44.759
+7,Jarno Trulli TRU,Renault,45.386
+8,Eddie Irvine IRV,Jaguar Cosworth,45.865
+9,Mika Salo SAL,Toyota,45.880
+10,Jenson Button BUT,Renault,45.972
+11,Pedro de la Rosa DLR,Jaguar Cosworth,46.056
+12,Jacques Villeneuve VIL,BAR Honda,46.403
+13,Allan McNish MCN,Toyota,46.485
+14,Giancarlo Fisichella FIS,Jordan Honda,46.508
+15,Olivier Panis PAN,BAR Honda,46.553
+16,Takuma Sato SAT,Jordan Honda,46.875
+17,Felipe Massa MAS,Sauber Petronas,46.896
+18,Nick Heidfeld HEI,Sauber Petronas,47.272
+19,Mark Webber WEB,Minardi Asiatech,47.562
+20,Anthony Davidson DAV,Minardi Asiatech,48.170
+1,Juan Pablo Montoya MOY,Williams BMW,20.264
+2,Michael Schumacher MSC,Ferrari,20.521
+3,Ralf Schumacher RSC,Williams BMW,20.542
+4,Rubens Barrichello BAR,Ferrari,20.706
+5,Eddie Irvine IRV,Jaguar Cosworth,21.606
+6,Kimi Räikkönen RAI,McLaren Mercedes,21.712
+7,David Coulthard COU,McLaren Mercedes,21.803
+8,Pedro de la Rosa DLR,Jaguar Cosworth,21.960
+9,Jacques Villeneuve VIL,BAR Honda,22.126
+10,Mika Salo SAL,Toyota,22.318
+11,Jarno Trulli TRU,Renault,22.383
+12,Giancarlo Fisichella FIS,Jordan Honda,22.515
+13,Allan McNish MCN,Toyota,22.521
+14,Felipe Massa MAS,Sauber Petronas,22.565
+15,Nick Heidfeld HEI,Sauber Petronas,22.601
+16,Olivier Panis PAN,BAR Honda,22.645
+17,Jenson Button BUT,Renault,22.714
+18,Takuma Sato SAT,Jordan Honda,23.166
+19,Mark Webber WEB,Minardi Asiatech,23.794
+20,Alex Yoong YOO,Minardi Asiatech,25.111
+1,Michael Schumacher MSC,Ferrari,10.790
+2,Rubens Barrichello BAR,Ferrari,11.058
+3,David Coulthard COU,McLaren Mercedes,11.413
+4,Juan Pablo Montoya MOY,Williams BMW,11.414
+5,Ralf Schumacher RSC,Williams BMW,11.587
+6,Kimi Räikkönen RAI,McLaren Mercedes,11.633
+7,Jacques Villeneuve VIL,BAR Honda,11.738
+8,Jarno Trulli TRU,Renault,11.888
+9,Giancarlo Fisichella FIS,Jordan Honda,11.902
+10,Nick Heidfeld HEI,Sauber Petronas,11.953
+11,Heinz-Harald Frentzen FRE,Sauber Petronas,12.083
+12,Olivier Panis PAN,BAR Honda,12.161
+13,Eddie Irvine IRV,Jaguar Cosworth,12.282
+14,Jenson Button BUT,Renault,12.401
+15,Takuma Sato SAT,Jordan Honda,12.647
+16,Allan McNish MCN,Toyota,12.723
+17,Pedro de la Rosa DLR,Jaguar Cosworth,12.739
+18,Mark Webber WEB,Minardi Asiatech,13.128
+19,Mika Salo SAL,Toyota,13.213
+20,Alex Yoong YOO,Minardi Asiatech,13.809
+1,Michael Schumacher MSC,Ferrari,31.317
+2,Rubens Barrichello BAR,Ferrari,31.749
+3,David Coulthard COU,McLaren Mercedes,32.088
+4,Kimi Räikkönen RAI,McLaren Mercedes,32.197
+5,Ralf Schumacher RSC,Williams BMW,32.444
+6,Juan Pablo Montoya MOY,Williams BMW,32.507
+7,Takuma Sato SAT,Jordan Honda,33.090
+8,Giancarlo Fisichella FIS,Jordan Honda,33.276
+9,Jacques Villeneuve VIL,BAR Honda,33.349
+10,Jenson Button BUT,Renault,33.429
+11,Jarno Trulli TRU,Renault,33.547
+12,Nick Heidfeld HEI,Sauber Petronas,33.553
+13,Mika Salo SAL,Toyota,33.742
+14,Eddie Irvine IRV,Jaguar Cosworth,33.915
+15,Felipe Massa MAS,Sauber Petronas,33.979
+16,Olivier Panis PAN,BAR Honda,34.192
+17,Pedro de la Rosa DLR,Jaguar Cosworth,34.227
+18,Allan McNish MCN,Toyota,35.191
+19,Mark Webber WEB,Minardi Asiatech,35.958
+20,Alex Yoong YOO,Minardi Asiatech,36.267

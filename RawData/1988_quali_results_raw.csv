@@ -1,0 +1,480 @@
+Pos,Driver,Car,Time
+1,Ayrton Senna SEN,McLaren Honda,28.096
+2,Nigel Mansell MAN,Williams Judd,28.632
+3,Alain Prost PRO,McLaren Honda,28.782
+4,Gerhard Berger BER,Ferrari,29.026
+5,Nelson Piquet PIQ,Lotus Honda,30.087
+6,Michele Alboreto ALB,Ferrari,30.114
+7,Thierry Boutsen BOU,Benetton Ford,30.140
+8,Riccardo Patrese PAT,Williams Judd,30.439
+9,Ivan Capelli CAP,March Judd,30.929
+10,Satoru Nakajima NAK,Lotus Honda,31.280
+11,Derek Warwick WAR,Arrows Megatron,31.723
+12,Alessandro Nannini NAN,Benetton Ford,31.772
+13,Mauricio Gugelmin GUG,March Judd,31.833
+14,Andrea de Cesaris DEC,Rial Ford,32.275
+15,Eddie Cheever CHE,Arrows Megatron,32.843
+16,Philippe Alliot ALL,Lola Ford,32.933
+17,Yannick Dalmas DAL,Lola Ford,33.408
+18,Rene Arnoux ARN,Ligier Judd,34.474
+19,Philippe Streiff STR,AGS Ford,34.481
+20,Luis Perez-Sala PER,Minardi Ford,34.532
+21,Stefan Johansson JOH,Ligier Judd,34.579
+22,Jonathan Palmer PAL,Tyrrell Ford,34.686
+23,Adrian Campos CAM,Minardi Ford,34.886
+24,Stefano Modena MOD,Euro Brun Ford,34.910
+25,Gabriele Tarquini TAR,Coloni Ford,35.407
+26,Oscar Larrauri LAR,Euro Brun Ford,35.711
+27,Julian Bailey BAI,Tyrrell Ford,36.137
+28,Piercarlo Ghinzani GHI,Zakspeed,37.621
+29,Nicola Larini LAR,Osella,38.371
+30,Bernd Schneider SCH,Zakspeed,38.614
+1,Ayrton Senna SEN,McLaren Honda,27.148
+2,Alain Prost PRO,McLaren Honda,27.919
+3,Nelson Piquet PIQ,Lotus Honda,30.500
+4,Alessandro Nannini NAN,Benetton Ford,30.590
+5,Gerhard Berger BER,Ferrari,30.683
+6,Riccardo Patrese PAT,Williams Judd,30.952
+7,Eddie Cheever CHE,Arrows Megatron,31.300
+8,Thierry Boutsen BOU,Benetton Ford,31.414
+9,Ivan Capelli CAP,March Judd,31.519
+10,Michele Alboreto ALB,Ferrari,31.520
+11,Nigel Mansell MAN,Williams Judd,31.635
+12,Satoru Nakajima NAK,Lotus Honda,31.647
+13,Philippe Streiff STR,AGS Ford,32.013
+14,Derek Warwick WAR,Arrows Megatron,32.483
+15,Philippe Alliot ALL,Lola Ford,32.712
+16,Andrea de Cesaris DEC,Rial Ford,33.037
+17,Gabriele Tarquini TAR,Coloni Ford,33.236
+18,Luis Perez-Sala PER,Minardi Ford,33.239
+19,Yannick Dalmas DAL,Lola Ford,33.374
+20,Mauricio Gugelmin GUG,March Judd,33.448
+21,Julian Bailey BAI,Tyrrell Ford,33.874
+22,Adrian Campos CAM,Minardi Ford,33.903
+23,Jonathan Palmer PAL,Tyrrell Ford,33.972
+24,Alex Caffi CAF,Dallara Ford,34.204
+25,Piercarlo Ghinzani GHI,Zakspeed,34.567
+26,Stefano Modena MOD,Euro Brun Ford,34.782
+27,Oscar Larrauri LAR,Euro Brun Ford,35.077
+28,Stefan Johansson JOH,Ligier Judd,35.654
+29,Rene Arnoux ARN,Ligier Judd,36.123
+30,Bernd Schneider SCH,Zakspeed,36.218
+1,Ayrton Senna SEN,McLaren Honda,23.998
+2,Alain Prost PRO,McLaren Honda,25.425
+3,Gerhard Berger BER,Ferrari,26.685
+4,Michele Alboreto ALB,Ferrari,27.297
+5,Nigel Mansell MAN,Williams Judd,27.665
+6,Alessandro Nannini NAN,Benetton Ford,27.869
+7,Derek Warwick WAR,Arrows Megatron,27.872
+8,Riccardo Patrese PAT,Williams Judd,28.016
+9,Eddie Cheever CHE,Arrows Megatron,28.227
+10,Jonathan Palmer PAL,Tyrrell Ford,28.358
+11,Nelson Piquet PIQ,Lotus Honda,28.403
+12,Philippe Streiff STR,AGS Ford,28.527
+13,Philippe Alliot ALL,Lola Ford,28.536
+14,Mauricio Gugelmin GUG,March Judd,28.610
+15,Luis Perez-Sala PER,Minardi Ford,28.625
+16,Thierry Boutsen BOU,Benetton Ford,28.640
+17,Alex Caffi CAF,Dallara Ford,29.075
+18,Oscar Larrauri LAR,Euro Brun Ford,29.093
+19,Andrea de Cesaris DEC,Rial Ford,29.298
+20,Rene Arnoux ARN,Ligier Judd,29.480
+21,Yannick Dalmas DAL,Lola Ford,29.601
+22,Ivan Capelli CAP,March Judd,29.603
+23,Piercarlo Ghinzani GHI,Zakspeed,30.121
+24,Gabriele Tarquini TAR,Coloni Ford,30.252
+25,Nicola Larini LAR,Osella,30.335
+26,Stefan Johansson JOH,Ligier Judd,30.505
+27,Satoru Nakajima NAK,Lotus Honda,30.611
+28,Bernd Schneider SCH,Zakspeed,30.613
+29,Adrian Campos CAM,Minardi Ford,30.793
+30,Julian Bailey BAI,Tyrrell Ford,30.816
+1,Ayrton Senna SEN,McLaren Honda,17.468
+2,Alain Prost PRO,McLaren Honda,18.097
+3,Gerhard Berger BER,Ferrari,18.120
+4,Nelson Piquet PIQ,Lotus Honda,18.946
+5,Michele Alboreto ALB,Ferrari,19.626
+6,Satoru Nakajima NAK,Lotus Honda,20.275
+7,Eddie Cheever CHE,Arrows Megatron,20.451
+8,Alessandro Nannini NAN,Benetton Ford,20.740
+9,Derek Warwick WAR,Arrows Megatron,20.775
+10,Ivan Capelli CAP,March Judd,21.952
+11,Thierry Boutsen BOU,Benetton Ford,22.029
+12,Andrea de Cesaris DEC,Rial Ford,22.245
+13,Philippe Alliot ALL,Lola Ford,22.348
+14,Nigel Mansell MAN,Williams Judd,22.363
+15,Bernd Schneider SCH,Zakspeed,22.642
+16,Mauricio Gugelmin GUG,March Judd,22.801
+17,Riccardo Patrese PAT,Williams Judd,22.972
+18,Piercarlo Ghinzani GHI,Zakspeed,23.078
+19,Philippe Streiff STR,AGS Ford,23.191
+20,Rene Arnoux ARN,Ligier Judd,23.287
+21,Gabriele Tarquini TAR,Coloni Ford,23.603
+22,Yannick Dalmas DAL,Lola Ford,23.606
+23,Alex Caffi CAF,Dallara Ford,23.716
+24,Stefan Johansson JOH,Ligier Judd,23.721
+25,Luis Perez-Sala PER,Minardi Ford,23.857
+26,Oscar Larrauri LAR,Euro Brun Ford,24.032
+27,Jonathan Palmer PAL,Tyrrell Ford,24.390
+28,Nicola Larini LAR,Osella,24.405
+29,Julian Bailey BAI,Tyrrell Ford,25.231
+30,Adrian Campos CAM,Minardi Ford,26.058
+1,Ayrton Senna SEN,McLaren Honda,21.681
+2,Alain Prost PRO,McLaren Honda,21.863
+3,Gerhard Berger BER,Ferrari,22.719
+4,Michele Alboreto ALB,Ferrari,23.296
+5,Alessandro Nannini NAN,Benetton Ford,23.968
+6,Nelson Piquet PIQ,Lotus Honda,23.995
+7,Thierry Boutsen BOU,Benetton Ford,24.115
+8,Eddie Cheever CHE,Arrows Megatron,24.679
+9,Nigel Mansell MAN,Williams Judd,24.844
+10,Philippe Streiff STR,AGS Ford,24.968
+11,Riccardo Patrese PAT,Williams Judd,24.971
+12,Andrea de Cesaris DEC,Rial Ford,24.988
+13,Satoru Nakajima NAK,Lotus Honda,25.373
+14,Ivan Capelli CAP,March Judd,25.609
+15,Stefano Modena MOD,Euro Brun Ford,25.713
+16,Derek Warwick WAR,Arrows Megatron,25.740
+17,Philippe Alliot ALL,Lola Ford,25.765
+18,Mauricio Gugelmin GUG,March Judd,25.910
+19,Jonathan Palmer PAL,Tyrrell Ford,26.092
+20,Rene Arnoux ARN,Ligier Judd,26.327
+21,Luis Perez-Sala PER,Minardi Ford,26.437
+22,Piercarlo Ghinzani GHI,Zakspeed,26.784
+23,Julian Bailey BAI,Tyrrell Ford,27.139
+24,Oscar Larrauri LAR,Euro Brun Ford,27.321
+25,Stefan Johansson JOH,Ligier Judd,27.637
+26,Gabriele Tarquini TAR,Coloni Ford,27.665
+27,Adrian Campos CAM,Minardi Ford,27.885
+28,Nicola Larini LAR,Osella,27.981
+29,Yannick Dalmas DAL,Lola Ford,28.012
+30,Bernd Schneider SCH,Zakspeed,28.215
+1,Ayrton Senna SEN,McLaren Honda,40.606
+2,Gerhard Berger BER,Ferrari,41.464
+3,Michele Alboreto ALB,Ferrari,41.700
+4,Alain Prost PRO,McLaren Honda,42.019
+5,Thierry Boutsen BOU,Benetton Ford,42.690
+6,Nigel Mansell MAN,Williams Judd,42.897
+7,Alessandro Nannini NAN,Benetton Ford,43.117
+8,Nelson Piquet PIQ,Lotus Honda,43.314
+9,Derek Warwick WAR,Arrows Megatron,43.799
+10,Riccardo Patrese PAT,Williams Judd,43.810
+11,Philippe Streiff STR,AGS Ford,44.204
+12,Andrea de Cesaris DEC,Rial Ford,44.216
+13,Mauricio Gugelmin GUG,March Judd,44.474
+14,Philippe Alliot ALL,Lola Ford,44.590
+15,Eddie Cheever CHE,Arrows Megatron,44.948
+16,Pierluigi Martini MAR,Minardi Ford,45.048
+17,Jonathan Palmer PAL,Tyrrell Ford,45.268
+18,Stefan Johansson JOH,Ligier Judd,45.275
+19,Stefano Modena MOD,Euro Brun Ford,45.304
+20,Rene Arnoux ARN,Ligier Judd,45.437
+21,Ivan Capelli CAP,March Judd,45.544
+22,Alex Caffi CAF,Dallara Ford,45.750
+23,Julian Bailey BAI,Tyrrell Ford,46.286
+24,Oscar Larrauri LAR,Euro Brun Ford,46.390
+25,Yannick Dalmas DAL,Lola Ford,46.422
+26,Luis Perez-Sala PER,Minardi Ford,46.593
+27,Nicola Larini LAR,Osella,46.623
+28,Satoru Nakajima NAK,Lotus Honda,47.243
+29,Bernd Schneider SCH,Zakspeed,48.249
+30,Piercarlo Ghinzani GHI,Zakspeed,48.925
+1,Alain Prost PRO,McLaren Honda,07.589
+2,Ayrton Senna SEN,McLaren Honda,08.067
+3,Gerhard Berger BER,Ferrari,08.282
+4,Michele Alboreto ALB,Ferrari,09.422
+5,Thierry Boutsen BOU,Benetton Ford,09.587
+6,Alessandro Nannini NAN,Benetton Ford,09.718
+7,Nelson Piquet PIQ,Lotus Honda,09.734
+8,Satoru Nakajima NAK,Lotus Honda,10.250
+9,Nigel Mansell MAN,Williams Judd,10.337
+10,Ivan Capelli CAP,March Judd,10.496
+11,Derek Warwick WAR,Arrows Megatron,10.634
+12,Andrea de Cesaris DEC,Rial Ford,10.861
+13,Eddie Cheever CHE,Arrows Megatron,10.979
+14,Alex Caffi CAF,Dallara Ford,11.211
+15,Riccardo Patrese PAT,Williams Judd,11.286
+16,Mauricio Gugelmin GUG,March Judd,11.315
+17,Philippe Streiff STR,AGS Ford,11.466
+18,Philippe Alliot ALL,Lola Ford,11.511
+19,Yannick Dalmas DAL,Lola Ford,11.747
+20,Stefano Modena MOD,Euro Brun Ford,12.007
+21,Bernd Schneider SCH,Zakspeed,12.026
+22,Pierluigi Martini MAR,Minardi Ford,12.268
+23,Jonathan Palmer PAL,Tyrrell Ford,12.316
+24,Nicola Larini LAR,Osella,12.406
+25,Luis Perez-Sala PER,Minardi Ford,12.525
+26,Oscar Larrauri LAR,Euro Brun Ford,12.538
+27,Rene Arnoux ARN,Ligier Judd,12.654
+28,Julian Bailey BAI,Tyrrell Ford,12.697
+29,Stefan Johansson JOH,Ligier Judd,12.801
+1,Gerhard Berger BER,Ferrari,10.133
+2,Michele Alboreto ALB,Ferrari,10.332
+3,Ayrton Senna SEN,McLaren Honda,10.616
+4,Alain Prost PRO,McLaren Honda,10.736
+5,Mauricio Gugelmin GUG,March Judd,11.745
+6,Ivan Capelli CAP,March Judd,12.006
+7,Nelson Piquet PIQ,Lotus Honda,12.040
+8,Alessandro Nannini NAN,Benetton Ford,12.737
+9,Derek Warwick WAR,Arrows Megatron,12.843
+10,Satoru Nakajima NAK,Lotus Honda,12.862
+11,Nigel Mansell MAN,Williams Judd,12.885
+12,Thierry Boutsen BOU,Benetton Ford,12.960
+13,Eddie Cheever CHE,Arrows Megatron,12.984
+14,Andrea de Cesaris DEC,Rial Ford,13.438
+15,Riccardo Patrese PAT,Williams Judd,13.677
+16,Philippe Streiff STR,AGS Ford,14.260
+17,Jonathan Palmer PAL,Tyrrell Ford,14.451
+18,Luis Perez-Sala PER,Minardi Ford,14.643
+19,Pierluigi Martini MAR,Minardi Ford,14.732
+20,Stefano Modena MOD,Euro Brun Ford,14.888
+21,Alex Caffi CAF,Dallara Ford,14.924
+22,Philippe Alliot ALL,Lola Ford,14.992
+23,Yannick Dalmas DAL,Lola Ford,15.004
+24,Julian Bailey BAI,Tyrrell Ford,15.135
+25,Rene Arnoux ARN,Ligier Judd,15.374
+26,Nicola Larini LAR,Osella,15.527
+27,Oscar Larrauri LAR,Euro Brun Ford,16.026
+28,Piercarlo Ghinzani GHI,Zakspeed,16.043
+29,Stefan Johansson JOH,Ligier Judd,16.110
+30,Bernd Schneider SCH,Zakspeed,18.010
+1,Ayrton Senna SEN,McLaren Honda,44.596
+2,Alain Prost PRO,McLaren Honda,44.873
+3,Gerhard Berger BER,Ferrari,46.115
+4,Michele Alboreto ALB,Ferrari,47.154
+5,Nelson Piquet PIQ,Lotus Honda,47.681
+6,Alessandro Nannini NAN,Benetton Ford,48.208
+7,Ivan Capelli CAP,March Judd,48.703
+8,Satoru Nakajima NAK,Lotus Honda,48.781
+9,Thierry Boutsen BOU,Benetton Ford,48.837
+10,Mauricio Gugelmin GUG,March Judd,49.511
+11,Nigel Mansell MAN,Williams Judd,49.880
+12,Derek Warwick WAR,Arrows Megatron,50.459
+13,Riccardo Patrese PAT,Williams Judd,50.719
+14,Andrea de Cesaris DEC,Rial Ford,51.004
+15,Eddie Cheever CHE,Arrows Megatron,51.171
+16,Philippe Streiff STR,AGS Ford,51.642
+17,Rene Arnoux ARN,Ligier Judd,52.080
+18,Nicola Larini LAR,Osella,52.168
+19,Alex Caffi CAF,Dallara Ford,52.277
+20,Philippe Alliot ALL,Lola Ford,52.293
+21,Yannick Dalmas DAL,Lola Ford,52.436
+22,Bernd Schneider SCH,Zakspeed,52.664
+23,Piercarlo Ghinzani GHI,Zakspeed,52.674
+24,Jonathan Palmer PAL,Tyrrell Ford,52.908
+25,Stefano Modena MOD,Euro Brun Ford,52.998
+26,Oscar Larrauri LAR,Euro Brun Ford,53.043
+27,Luis Perez-Sala PER,Minardi Ford,53.356
+28,Stefan Johansson JOH,Ligier Judd,53.507
+29,Julian Bailey BAI,Tyrrell Ford,53.576
+30,Pierluigi Martini MAR,Minardi Ford,53.596
+1,Ayrton Senna SEN,McLaren Honda,27.635
+2,Nigel Mansell MAN,Williams Judd,27.743
+3,Thierry Boutsen BOU,Benetton Ford,27.970
+4,Ivan Capelli CAP,March Judd,28.350
+5,Alessandro Nannini NAN,Benetton Ford,28.493
+6,Riccardo Patrese PAT,Williams Judd,28.569
+7,Alain Prost PRO,McLaren Honda,28.778
+8,Mauricio Gugelmin GUG,March Judd,29.099
+9,Gerhard Berger BER,Ferrari,29.244
+10,Alex Caffi CAF,Dallara Ford,29.891
+11,Luis Perez-Sala PER,Minardi Ford,30.103
+12,Derek Warwick WAR,Arrows Megatron,30.185
+13,Nelson Piquet PIQ,Lotus Honda,30.405
+14,Eddie Cheever CHE,Arrows Megatron,30.908
+15,Michele Alboreto ALB,Ferrari,31.052
+16,Pierluigi Martini MAR,Minardi Ford,31.123
+17,Yannick Dalmas DAL,Lola Ford,31.200
+18,Andrea de Cesaris DEC,Rial Ford,31.523
+19,Satoru Nakajima NAK,Lotus Honda,31.646
+20,Philippe Alliot ALL,Lola Ford,31.719
+21,Jonathan Palmer PAL,Tyrrell Ford,31.741
+22,Gabriele Tarquini TAR,Coloni Ford,32.160
+23,Philippe Streiff STR,AGS Ford,32.265
+24,Stefan Johansson JOH,Ligier Judd,32.342
+25,Rene Arnoux ARN,Ligier Judd,32.477
+26,Stefano Modena MOD,Euro Brun Ford,32.614
+27,Oscar Larrauri LAR,Euro Brun Ford,32.987
+28,Bernd Schneider SCH,Zakspeed,33.357
+29,Julian Bailey BAI,Tyrrell Ford,33.694
+30,Piercarlo Ghinzani GHI,Zakspeed,34.701
+1,Ayrton Senna SEN,McLaren Honda,53.718
+2,Alain Prost PRO,McLaren Honda,54.128
+3,Gerhard Berger BER,Ferrari,54.581
+4,Michele Alboreto ALB,Ferrari,55.665
+5,Riccardo Patrese PAT,Williams Judd,57.138
+6,Thierry Boutsen BOU,Benetton Ford,57.455
+7,Alessandro Nannini NAN,Benetton Ford,57.535
+8,Satoru Nakajima NAK,Lotus Honda,57.616
+9,Nelson Piquet PIQ,Lotus Honda,57.821
+10,Derek Warwick WAR,Arrows Megatron,57.925
+11,Eddie Cheever CHE,Arrows Megatron,57.980
+12,Martin Brundle BRU,Williams Judd,58.206
+13,Mauricio Gugelmin GUG,March Judd,58.361
+14,Ivan Capelli CAP,March Judd,59.439
+15,Alex Caffi CAF,Dallara Ford,59.776
+16,Philippe Alliot ALL,Lola Ford,59.906
+17,Rene Arnoux ARN,Ligier Judd,00.037
+18,Philippe Streiff STR,AGS Ford,00.410
+19,Andrea de Cesaris DEC,Rial Ford,00.521
+20,Stefan Johansson JOH,Ligier Judd,00.857
+21,Jonathan Palmer PAL,Tyrrell Ford,01.078
+22,Gabriele Tarquini TAR,Coloni Ford,01.359
+23,Yannick Dalmas DAL,Lola Ford,01.467
+24,Piercarlo Ghinzani GHI,Zakspeed,01.899
+25,Bernd Schneider SCH,Zakspeed,01.938
+26,Nicola Larini LAR,Osella,02.029
+27,Luis Perez-Sala PER,Minardi Ford,02.129
+28,Pierluigi Martini MAR,Minardi Ford,02.314
+29,Stefano Modena MOD,Euro Brun Ford,02.322
+30,Julian Bailey BAI,Tyrrell Ford,02.519
+1,Ayrton Senna SEN,McLaren Honda,25.974
+2,Alain Prost PRO,McLaren Honda,26.277
+3,Gerhard Berger BER,Ferrari,26.654
+4,Michele Alboreto ALB,Ferrari,26.988
+5,Eddie Cheever CHE,Arrows Megatron,27.660
+6,Derek Warwick WAR,Arrows Megatron,27.815
+7,Nelson Piquet PIQ,Lotus Honda,28.044
+8,Thierry Boutsen BOU,Benetton Ford,28.870
+9,Alessandro Nannini NAN,Benetton Ford,28.958
+10,Riccardo Patrese PAT,Williams Judd,29.435
+11,Ivan Capelli CAP,March Judd,29.513
+12,Satoru Nakajima NAK,Lotus Honda,29.541
+13,Mauricio Gugelmin GUG,March Judd,30.035
+14,Pierluigi Martini MAR,Minardi Ford,30.125
+15,Bernd Schneider SCH,Zakspeed,30.161
+16,Piercarlo Ghinzani GHI,Zakspeed,30.476
+17,Nicola Larini LAR,Osella,30.481
+18,Andrea de Cesaris DEC,Rial Ford,30.560
+19,Luis Perez-Sala PER,Minardi Ford,30.698
+20,Philippe Alliot ALL,Lola Ford,30.962
+21,Alex Caffi CAF,Dallara Ford,30.989
+22,Jean Louis Schlesser SCH,Williams Judd,31.548
+23,Philippe Streiff STR,AGS Ford,31.676
+24,Rene Arnoux ARN,Ligier Judd,32.049
+25,Yannick Dalmas DAL,Lola Ford,32.164
+26,Julian Bailey BAI,Tyrrell Ford,32.290
+27,Jonathan Palmer PAL,Tyrrell Ford,32.405
+28,Stefan Johansson JOH,Ligier Judd,32.438
+29,Gabriele Tarquini TAR,Coloni Ford,32.829
+30,Stefano Modena MOD,Euro Brun Ford,33.226
+1,Alain Prost PRO,McLaren Honda,17.411
+2,Ayrton Senna SEN,McLaren Honda,17.869
+3,Ivan Capelli CAP,March Judd,18.812
+4,Gerhard Berger BER,Ferrari,18.903
+5,Mauricio Gugelmin GUG,March Judd,19.045
+6,Nigel Mansell MAN,Williams Judd,19.131
+7,Michele Alboreto ALB,Ferrari,19.372
+8,Nelson Piquet PIQ,Lotus Honda,19.551
+9,Alessandro Nannini NAN,Benetton Ford,19.572
+10,Derek Warwick WAR,Arrows Megatron,19.603
+11,Riccardo Patrese PAT,Williams Judd,19.797
+12,Andrea de Cesaris DEC,Rial Ford,19.940
+13,Thierry Boutsen BOU,Benetton Ford,20.314
+14,Pierluigi Martini MAR,Minardi Ford,20.741
+15,Yannick Dalmas DAL,Lola Ford,20.748
+16,Satoru Nakajima NAK,Lotus Honda,20.783
+17,Alex Caffi CAF,Dallara Ford,20.922
+18,Eddie Cheever CHE,Arrows Megatron,20.965
+19,Luis Perez-Sala PER,Minardi Ford,21.094
+20,Philippe Alliot ALL,Lola Ford,21.096
+21,Philippe Streiff STR,AGS Ford,21.418
+22,Jonathan Palmer PAL,Tyrrell Ford,21.788
+23,Rene Arnoux ARN,Ligier Judd,21.790
+24,Stefan Johansson JOH,Ligier Judd,22.035
+25,Nicola Larini LAR,Osella,22.119
+26,Gabriele Tarquini TAR,Coloni Ford,22.170
+27,Julian Bailey BAI,Tyrrell Ford,22.296
+28,Piercarlo Ghinzani GHI,Zakspeed,22.549
+29,Stefano Modena MOD,Euro Brun Ford,23.075
+30,Bernd Schneider SCH,Zakspeed,23.300
+1,Ayrton Senna SEN,McLaren Honda,24.067
+2,Alain Prost PRO,McLaren Honda,24.134
+3,Nigel Mansell MAN,Williams Judd,24.269
+4,Thierry Boutsen BOU,Benetton Ford,24.904
+5,Alessandro Nannini NAN,Benetton Ford,25.032
+6,Ivan Capelli CAP,March Judd,25.115
+7,Riccardo Patrese PAT,Williams Judd,25.217
+8,Gerhard Berger BER,Ferrari,25.466
+9,Nelson Piquet PIQ,Lotus Honda,25.648
+10,Michele Alboreto ALB,Ferrari,26.447
+11,Mauricio Gugelmin GUG,March Judd,26.578
+12,Philippe Alliot ALL,Lola Ford,26.832
+13,Philippe Streiff STR,AGS Ford,26.971
+14,Nicola Larini LAR,Osella,27.012
+15,Satoru Nakajima NAK,Lotus Honda,27.171
+16,Yannick Dalmas DAL,Lola Ford,27.187
+17,Derek Warwick WAR,Arrows Megatron,27.240
+18,Alex Caffi CAF,Dallara Ford,27.350
+19,Rene Arnoux ARN,Ligier Judd,27.351
+20,Pierluigi Martini MAR,Minardi Ford,27.407
+21,Stefan Johansson JOH,Ligier Judd,27.474
+22,Jonathan Palmer PAL,Tyrrell Ford,27.548
+23,Andrea de Cesaris DEC,Rial Ford,27.798
+24,Luis Perez-Sala PER,Minardi Ford,27.833
+25,Eddie Cheever CHE,Arrows Megatron,27.859
+26,Stefano Modena MOD,Euro Brun Ford,27.977
+27,Bernd Schneider SCH,Zakspeed,28.194
+28,Oscar Larrauri LAR,Euro Brun Ford,28.664
+29,Julian Bailey BAI,Tyrrell Ford,29.066
+30,Piercarlo Ghinzani GHI,Zakspeed,29.503
+1,Ayrton Senna SEN,McLaren Honda,41.853
+2,Alain Prost PRO,McLaren Honda,42.177
+3,Gerhard Berger BER,Ferrari,43.353
+4,Ivan Capelli CAP,March Judd,43.605
+5,Nelson Piquet PIQ,Lotus Honda,43.693
+6,Satoru Nakajima NAK,Lotus Honda,43.693
+7,Derek Warwick WAR,Arrows Megatron,43.816
+8,Nigel Mansell MAN,Williams Judd,43.893
+9,Michele Alboreto ALB,Ferrari,43.972
+10,Thierry Boutsen BOU,Benetton Ford,44.499
+11,Riccardo Patrese PAT,Williams Judd,44.555
+12,Alessandro Nannini NAN,Benetton Ford,44.611
+13,Mauricio Gugelmin GUG,March Judd,45.138
+14,Andrea de Cesaris DEC,Rial Ford,45.558
+15,Eddie Cheever CHE,Arrows Megatron,45.845
+16,Jonathan Palmer PAL,Tyrrell Ford,45.916
+17,Pierluigi Martini MAR,Minardi Ford,46.449
+18,Philippe Streiff STR,AGS Ford,46.486
+19,Philippe Alliot ALL,Lola Ford,46.521
+20,Aguri Suzuki SUZ,Lola Ford,46.920
+21,Alex Caffi CAF,Dallara Ford,46.982
+22,Luis Perez-Sala PER,Minardi Ford,47.134
+23,Rene Arnoux ARN,Ligier Judd,47.193
+24,Nicola Larini LAR,Osella,47.547
+25,Bernd Schneider SCH,Zakspeed,47.599
+26,Julian Bailey BAI,Tyrrell Ford,48.589
+27,Stefan Johansson JOH,Ligier Judd,48.716
+28,Oscar Larrauri LAR,Euro Brun Ford,49.265
+29,Piercarlo Ghinzani GHI,Zakspeed,49.706
+30,Stefano Modena MOD,Euro Brun Ford,49.810
+1,Ayrton Senna SEN,McLaren Honda,17.748
+2,Alain Prost PRO,McLaren Honda,17.880
+3,Nigel Mansell MAN,Williams Judd,19.427
+4,Gerhard Berger BER,Ferrari,19.517
+5,Nelson Piquet PIQ,Lotus Honda,19.535
+6,Riccardo Patrese PAT,Williams Judd,19.925
+7,Derek Warwick WAR,Arrows Megatron,20.086
+8,Alessandro Nannini NAN,Benetton Ford,20.182
+9,Ivan Capelli CAP,March Judd,20.459
+10,Thierry Boutsen BOU,Benetton Ford,20.486
+11,Alex Caffi CAF,Dallara Ford,20.781
+12,Michele Alboreto ALB,Ferrari,20.844
+13,Satoru Nakajima NAK,Lotus Honda,20.852
+14,Pierluigi Martini MAR,Minardi Ford,21.133
+15,Andrea de Cesaris DEC,Rial Ford,21.164
+16,Philippe Streiff STR,AGS Ford,21.262
+17,Jonathan Palmer PAL,Tyrrell Ford,21.307
+18,Eddie Cheever CHE,Arrows Megatron,21.393
+19,Mauricio Gugelmin GUG,March Judd,21.554
+20,Stefano Modena MOD,Euro Brun Ford,21.856
+21,Luis Perez-Sala PER,Minardi Ford,21.893
+22,Stefan Johansson JOH,Ligier Judd,21.988
+23,Rene Arnoux ARN,Ligier Judd,22.028
+24,Philippe Alliot ALL,Lola Ford,22.211
+25,Oscar Larrauri LAR,Euro Brun Ford,22.213
+26,Piercarlo Ghinzani GHI,Zakspeed,22.348
+27,Gabriele Tarquini TAR,Coloni Ford,22.393
+28,Julian Bailey BAI,Tyrrell Ford,22.529
+29,Pierre Henri Raphanel RAP,Lola Ford,22.733
+30,Bernd Schneider SCH,Zakspeed,23.025

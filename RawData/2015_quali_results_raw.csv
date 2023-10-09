@@ -1,0 +1,375 @@
+Pos,Driver,Car,Time
+1,Lewis Hamilton HAM,Mercedes,1:26.327
+2,Nico Rosberg ROS,Mercedes,1:26.921
+3,Felipe Massa MAS,Williams Mercedes,1:27.718
+4,Sebastian Vettel VET,Ferrari,1:27.757
+5,Kimi Räikkönen RAI,Ferrari,1:27.790
+6,Valtteri Bottas BOT,Williams Mercedes,1:28.087
+7,Daniel Ricciardo RIC,Red Bull Racing Renault,1:28.329
+8,Carlos Sainz SAI,STR Renault,1:28.510
+9,Romain Grosjean GRO,Lotus Mercedes,1:28.560
+10,Pastor Maldonado MAL,Lotus Mercedes,1:29.480
+11,Felipe Nasr NAS,Sauber Ferrari,
+12,Max Verstappen VER,STR Renault,
+13,Daniil Kvyat KVY,Red Bull Racing Renault,
+14,Nico Hulkenberg HUL,Force India Mercedes,
+15,Sergio Perez PER,Force India Mercedes,
+16,Marcus Ericsson ERI,Sauber Ferrari,
+17,Jenson Button BUT,McLaren Honda,
+18,Kevin Magnussen MAG,McLaren Honda,
+1,Lewis Hamilton HAM,Mercedes,1:49.834
+2,Sebastian Vettel VET,Ferrari,1:49.908
+3,Nico Rosberg ROS,Mercedes,1:50.299
+4,Daniel Ricciardo RIC,Red Bull Racing Renault,1:51.541
+5,Daniil Kvyat KVY,Red Bull Racing Renault,1:51.951
+6,Max Verstappen VER,STR Renault,1:51.981
+7,Felipe Massa MAS,Williams Mercedes,1:52.473
+8,Romain Grosjean GRO,Lotus Mercedes,1:52.981
+9,Valtteri Bottas BOT,Williams Mercedes,1:53.179
+10,Marcus Ericsson ERI,Sauber Ferrari,1:53.261
+11,Kimi Räikkönen RAI,Ferrari,
+12,Pastor Maldonado MAL,Lotus Mercedes,
+13,Nico Hulkenberg HUL,Force India Mercedes,
+14,Sergio Perez PER,Force India Mercedes,
+15,Carlos Sainz SAI,STR Renault,
+16,Felipe Nasr NAS,Sauber Ferrari,
+17,Jenson Button BUT,McLaren Honda,
+18,Fernando Alonso ALO,McLaren Honda,
+NC,Roberto Merhi MER,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:35.782
+2,Nico Rosberg ROS,Mercedes,1:35.824
+3,Sebastian Vettel VET,Ferrari,1:36.687
+4,Felipe Massa MAS,Williams Mercedes,1:36.954
+5,Valtteri Bottas BOT,Williams Mercedes,1:37.143
+6,Kimi Räikkönen RAI,Ferrari,1:37.232
+7,Daniel Ricciardo RIC,Red Bull Racing Renault,1:37.540
+8,Romain Grosjean GRO,Lotus Mercedes,1:37.905
+9,Felipe Nasr NAS,Sauber Ferrari,1:38.067
+10,Marcus Ericsson ERI,Sauber Ferrari,1:38.158
+11,Pastor Maldonado MAL,Lotus Mercedes,
+12,Daniil Kvyat KVY,Red Bull Racing Renault,
+13,Max Verstappen VER,STR Renault,
+14,Carlos Sainz SAI,STR Renault,
+15,Sergio Perez PER,Force India Mercedes,
+16,Nico Hulkenberg HUL,Force India Mercedes,
+17,Jenson Button BUT,McLaren Honda,
+18,Fernando Alonso ALO,McLaren Honda,
+19,Will Stevens STE,Marussia Ferrari,
+20,Roberto Merhi MER,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:32.571
+2,Sebastian Vettel VET,Ferrari,1:32.982
+3,Nico Rosberg ROS,Mercedes,1:33.129
+4,Kimi Räikkönen RAI,Ferrari,1:33.227
+5,Valtteri Bottas BOT,Williams Mercedes,1:33.381
+6,Felipe Massa MAS,Williams Mercedes,1:33.744
+7,Daniel Ricciardo RIC,Red Bull Racing Renault,1:33.832
+8,Nico Hulkenberg HUL,Force India Mercedes,1:34.450
+9,Carlos Sainz SAI,STR Renault,1:34.462
+10,Romain Grosjean GRO,Lotus Mercedes,1:34.484
+11,Sergio Perez PER,Force India Mercedes,
+12,Felipe Nasr NAS,Sauber Ferrari,
+13,Marcus Ericsson ERI,Sauber Ferrari,
+14,Fernando Alonso ALO,McLaren Honda,
+15,Max Verstappen VER,STR Renault,
+16,Pastor Maldonado MAL,Lotus Mercedes,
+17,Daniil Kvyat KVY,Red Bull Racing Renault,
+18,Will Stevens STE,Marussia Ferrari,
+19,Roberto Merhi MER,Marussia Ferrari,
+NC,Jenson Button BUT,McLaren Honda,
+1,Nico Rosberg ROS,Mercedes,1:24.681
+2,Lewis Hamilton HAM,Mercedes,1:24.948
+3,Sebastian Vettel VET,Ferrari,1:25.458
+4,Valtteri Bottas BOT,Williams Mercedes,1:25.694
+5,Carlos Sainz SAI,STR Renault,1:26.136
+6,Max Verstappen VER,STR Renault,1:26.249
+7,Kimi Räikkönen RAI,Ferrari,1:26.414
+8,Daniil Kvyat KVY,Red Bull Racing Renault,1:26.629
+9,Felipe Massa MAS,Williams Mercedes,1:26.757
+10,Daniel Ricciardo RIC,Red Bull Racing Renault,1:26.770
+11,Romain Grosjean GRO,Lotus Mercedes,
+12,Pastor Maldonado MAL,Lotus Mercedes,
+13,Fernando Alonso ALO,McLaren Honda,
+14,Jenson Button BUT,McLaren Honda,
+15,Felipe Nasr NAS,Sauber Ferrari,
+16,Marcus Ericsson ERI,Sauber Ferrari,
+17,Nico Hulkenberg HUL,Force India Mercedes,
+18,Sergio Perez PER,Force India Mercedes,
+19,Will Stevens STE,Marussia Ferrari,
+20,Roberto Merhi MER,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:15.098
+2,Nico Rosberg ROS,Mercedes,1:15.440
+3,Sebastian Vettel VET,Ferrari,1:15.849
+4,Daniel Ricciardo RIC,Red Bull Racing Renault,1:16.041
+5,Daniil Kvyat KVY,Red Bull Racing Renault,1:16.182
+6,Kimi Räikkönen RAI,Ferrari,1:16.427
+7,Sergio Perez PER,Force India Mercedes,1:16.808
+8,Carlos Sainz SAI,STR Renault,1:16.931
+9,Pastor Maldonado MAL,Lotus Mercedes,1:16.946
+10,Max Verstappen VER,STR Renault,1:16.957
+11,Romain Grosjean GRO,Lotus Mercedes,
+12,Jenson Button BUT,McLaren Honda,
+13,Nico Hulkenberg HUL,Force India Mercedes,
+14,Felipe Massa MAS,Williams Mercedes,
+15,Fernando Alonso ALO,McLaren Honda,
+16,Felipe Nasr NAS,Sauber Ferrari,
+17,Valtteri Bottas BOT,Williams Mercedes,
+18,Marcus Ericsson ERI,Sauber Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+20,Roberto Merhi MER,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:14.393
+2,Nico Rosberg ROS,Mercedes,1:14.702
+3,Kimi Räikkönen RAI,Ferrari,1:15.014
+4,Valtteri Bottas BOT,Williams Mercedes,1:15.102
+5,Romain Grosjean GRO,Lotus Mercedes,1:15.194
+6,Pastor Maldonado MAL,Lotus Mercedes,1:15.329
+7,Nico Hulkenberg HUL,Force India Mercedes,1:15.614
+8,Daniil Kvyat KVY,Red Bull Racing Renault,1:16.079
+9,Daniel Ricciardo RIC,Red Bull Racing Renault,1:16.114
+10,Sergio Perez PER,Force India Mercedes,1:16.338
+11,Carlos Sainz SAI,STR Renault,
+12,Max Verstappen VER,STR Renault,
+13,Marcus Ericsson ERI,Sauber Ferrari,
+14,Fernando Alonso ALO,McLaren Honda,
+15,Felipe Nasr NAS,Sauber Ferrari,
+16,Sebastian Vettel VET,Ferrari,
+17,Felipe Massa MAS,Williams Mercedes,
+18,Roberto Merhi MER,Marussia Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:08.455
+2,Nico Rosberg ROS,Mercedes,1:08.655
+3,Sebastian Vettel VET,Ferrari,1:08.810
+4,Felipe Massa MAS,Williams Mercedes,1:09.192
+5,Nico Hulkenberg HUL,Force India Mercedes,1:09.278
+6,Valtteri Bottas BOT,Williams Mercedes,1:09.319
+7,Max Verstappen VER,STR Renault,1:09.612
+8,Daniil Kvyat KVY,Red Bull Racing Renault,1:09.694
+9,Felipe Nasr NAS,Sauber Ferrari,1:09.713
+10,Romain Grosjean GRO,Lotus Mercedes,DNS
+11,Pastor Maldonado MAL,Lotus Mercedes,
+12,Marcus Ericsson ERI,Sauber Ferrari,
+13,Carlos Sainz SAI,STR Renault,
+14,Daniel Ricciardo RIC,Red Bull Racing Renault,
+15,Fernando Alonso ALO,McLaren Honda,
+16,Sergio Perez PER,Force India Mercedes,
+17,Jenson Button BUT,McLaren Honda,
+18,Kimi Räikkönen RAI,Ferrari,
+19,Roberto Merhi MER,Marussia Ferrari,
+20,Will Stevens STE,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:32.248
+2,Nico Rosberg ROS,Mercedes,1:32.361
+3,Felipe Massa MAS,Williams Mercedes,1:33.085
+4,Valtteri Bottas BOT,Williams Mercedes,1:33.149
+5,Kimi Räikkönen RAI,Ferrari,1:33.379
+6,Sebastian Vettel VET,Ferrari,1:33.547
+7,Daniil Kvyat KVY,Red Bull Racing Renault,1:33.636
+8,Carlos Sainz SAI,STR Renault,1:33.649
+9,Nico Hulkenberg HUL,Force India Mercedes,1:33.673
+10,Daniel Ricciardo RIC,Red Bull Racing Renault,1:33.943
+11,Sergio Perez PER,Force India Mercedes,
+12,Romain Grosjean GRO,Lotus Mercedes,
+13,Max Verstappen VER,STR Renault,
+14,Pastor Maldonado MAL,Lotus Mercedes,
+15,Marcus Ericsson ERI,Sauber Ferrari,
+16,Felipe Nasr NAS,Sauber Ferrari,
+17,Fernando Alonso ALO,McLaren Honda,
+18,Jenson Button BUT,McLaren Honda,
+19,Will Stevens STE,Marussia Ferrari,
+20,Roberto Merhi MER,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:22.020
+2,Nico Rosberg ROS,Mercedes,1:22.595
+3,Sebastian Vettel VET,Ferrari,1:22.739
+4,Daniel Ricciardo RIC,Red Bull Racing Renault,1:22.774
+5,Kimi Räikkönen RAI,Ferrari,1:23.020
+6,Valtteri Bottas BOT,Williams Mercedes,1:23.222
+7,Daniil Kvyat KVY,Red Bull Racing Renault,1:23.332
+8,Felipe Massa MAS,Williams Mercedes,1:23.537
+9,Max Verstappen VER,STR Renault,1:23.679
+10,Romain Grosjean GRO,Lotus Mercedes,1:24.181
+11,Nico Hulkenberg HUL,Force India Mercedes,
+12,Carlos Sainz SAI,STR Renault,
+13,Sergio Perez PER,Force India Mercedes,
+14,Pastor Maldonado MAL,Lotus Mercedes,
+15,Fernando Alonso ALO,McLaren Honda,
+16,Jenson Button BUT,McLaren Honda,
+17,Marcus Ericsson ERI,Sauber Ferrari,
+18,Felipe Nasr NAS,Sauber Ferrari,
+19,Roberto Merhi MER,Marussia Ferrari,
+20,Will Stevens STE,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:47.197
+2,Nico Rosberg ROS,Mercedes,1:47.655
+3,Valtteri Bottas BOT,Williams Mercedes,1:48.537
+4,Romain Grosjean GRO,Lotus Mercedes,1:48.561
+5,Sergio Perez PER,Force India Mercedes,1:48.599
+6,Daniel Ricciardo RIC,Red Bull Racing Renault,1:48.639
+7,Felipe Massa MAS,Williams Mercedes,1:48.685
+8,Pastor Maldonado MAL,Lotus Mercedes,1:48.754
+9,Sebastian Vettel VET,Ferrari,1:48.825
+10,Carlos Sainz SAI,STR Renault,1:49.771
+11,Nico Hulkenberg HUL,Force India Mercedes,
+12,Daniil Kvyat KVY,Red Bull Racing Renault,
+13,Marcus Ericsson ERI,Sauber Ferrari,
+14,Kimi Räikkönen RAI,Ferrari,
+15,Max Verstappen VER,STR Renault,
+16,Felipe Nasr NAS,Sauber Ferrari,
+17,Jenson Button BUT,McLaren Honda,
+18,Fernando Alonso ALO,McLaren Honda,
+19,Will Stevens STE,Marussia Ferrari,
+20,Roberto Merhi MER,Marussia Ferrari,
+1,Lewis Hamilton HAM,Mercedes,1:23.397
+2,Kimi Räikkönen RAI,Ferrari,1:23.631
+3,Sebastian Vettel VET,Ferrari,1:23.685
+4,Nico Rosberg ROS,Mercedes,1:23.703
+5,Felipe Massa MAS,Williams Mercedes,1:23.940
+6,Valtteri Bottas BOT,Williams Mercedes,1:24.127
+7,Sergio Perez PER,Force India Mercedes,1:24.626
+8,Romain Grosjean GRO,Lotus Mercedes,1:25.054
+9,Nico Hulkenberg HUL,Force India Mercedes,1:25.317
+10,Marcus Ericsson ERI,Sauber Ferrari,1:26.214
+11,Pastor Maldonado MAL,Lotus Mercedes,
+12,Felipe Nasr NAS,Sauber Ferrari,
+13,Carlos Sainz SAI,STR Renault,
+14,Daniil Kvyat KVY,Red Bull Racing Renault,
+15,Daniel Ricciardo RIC,Red Bull Racing Renault,
+16,Jenson Button BUT,McLaren Honda,
+17,Fernando Alonso ALO,McLaren Honda,
+18,Will Stevens STE,Marussia Ferrari,
+19,Roberto Merhi MER,Marussia Ferrari,
+NC,Max Verstappen VER,STR Renault,
+1,Sebastian Vettel VET,Ferrari,1:43.885
+2,Daniel Ricciardo RIC,Red Bull Racing Renault,1:44.428
+3,Kimi Räikkönen RAI,Ferrari,1:44.667
+4,Daniil Kvyat KVY,Red Bull Racing Renault,1:44.745
+5,Lewis Hamilton HAM,Mercedes,1:45.300
+6,Nico Rosberg ROS,Mercedes,1:45.415
+7,Valtteri Bottas BOT,Williams Mercedes,1:45.676
+8,Max Verstappen VER,STR Renault,1:45.798
+9,Felipe Massa MAS,Williams Mercedes,1:46.077
+10,Romain Grosjean GRO,Lotus Mercedes,1:46.413
+11,Nico Hulkenberg HUL,Force India Mercedes,
+12,Fernando Alonso ALO,McLaren Honda,
+13,Sergio Perez PER,Force India Mercedes,
+14,Carlos Sainz SAI,STR Renault,
+15,Jenson Button BUT,McLaren Honda,
+16,Felipe Nasr NAS,Sauber Ferrari,
+17,Marcus Ericsson ERI,Sauber Ferrari,
+18,Pastor Maldonado MAL,Lotus Mercedes,
+19,Will Stevens STE,Marussia Ferrari,
+20,Alexander Rossi RSI,Marussia Ferrari,
+1,Nico Rosberg ROS,Mercedes,1:32.584
+2,Lewis Hamilton HAM,Mercedes,1:32.660
+3,Valtteri Bottas BOT,Williams Mercedes,1:33.024
+4,Sebastian Vettel VET,Ferrari,1:33.245
+5,Felipe Massa MAS,Williams Mercedes,1:33.337
+6,Kimi Räikkönen RAI,Ferrari,1:33.347
+7,Daniel Ricciardo RIC,Red Bull Racing Renault,1:33.497
+8,Romain Grosjean GRO,Lotus Mercedes,1:33.967
+9,Sergio Perez PER,Force India Mercedes,DNF
+10,Daniil Kvyat KVY,Red Bull Racing Renault,DNF
+11,Nico Hulkenberg HUL,Force India Mercedes,
+12,Carlos Sainz SAI,STR Renault,
+13,Pastor Maldonado MAL,Lotus Mercedes,
+14,Fernando Alonso ALO,McLaren Honda,
+15,Max Verstappen VER,STR Renault,
+16,Jenson Button BUT,McLaren Honda,
+17,Marcus Ericsson ERI,Sauber Ferrari,
+18,Felipe Nasr NAS,Sauber Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+NC,Alexander Rossi RSI,Marussia Ferrari,
+1,Nico Rosberg ROS,Mercedes,1:37.113
+2,Lewis Hamilton HAM,Mercedes,1:37.433
+3,Valtteri Bottas BOT,Williams Mercedes,1:37.912
+4,Sebastian Vettel VET,Ferrari,1:37.965
+5,Kimi Räikkönen RAI,Ferrari,1:38.348
+6,Nico Hulkenberg HUL,Force India Mercedes,1:38.659
+7,Sergio Perez PER,Force India Mercedes,1:38.691
+8,Romain Grosjean GRO,Lotus Mercedes,1:38.787
+9,Max Verstappen VER,STR Renault,1:38.924
+10,Daniel Ricciardo RIC,Red Bull Racing Renault,1:39.728
+11,Daniil Kvyat KVY,Red Bull Racing Renault,
+12,Felipe Nasr NAS,Sauber Ferrari,
+13,Jenson Button BUT,McLaren Honda,
+14,Pastor Maldonado MAL,Lotus Mercedes,
+15,Felipe Massa MAS,Williams Mercedes,
+16,Fernando Alonso ALO,McLaren Honda,
+17,Marcus Ericsson ERI,Sauber Ferrari,
+18,Will Stevens STE,Marussia Ferrari,
+19,Roberto Merhi MER,Marussia Ferrari,
+1,Nico Rosberg ROS,Mercedes,
+2,Lewis Hamilton HAM,Mercedes,
+3,Daniel Ricciardo RIC,Red Bull Racing Renault,
+4,Daniil Kvyat KVY,Red Bull Racing Renault,
+5,Sebastian Vettel VET,Ferrari,
+6,Sergio Perez PER,Force India Mercedes,
+7,Nico Hulkenberg HUL,Force India Mercedes,
+8,Kimi Räikkönen RAI,Ferrari,
+9,Felipe Massa MAS,Williams Mercedes,
+10,Max Verstappen VER,STR Renault,
+11,Fernando Alonso ALO,McLaren Honda,
+12,Valtteri Bottas BOT,Williams Mercedes,
+13,Romain Grosjean GRO,Lotus Mercedes,
+14,Jenson Button BUT,McLaren Honda,
+15,Pastor Maldonado MAL,Lotus Mercedes,
+16,Marcus Ericsson ERI,Sauber Ferrari,
+17,Felipe Nasr NAS,Sauber Ferrari,
+18,Alexander Rossi RSI,Marussia Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+NC,Carlos Sainz SAI,STR Renault,
+1,Nico Rosberg ROS,Mercedes,1:19.480
+2,Lewis Hamilton HAM,Mercedes,1:19.668
+3,Sebastian Vettel VET,Ferrari,1:19.850
+4,Daniil Kvyat KVY,Red Bull Racing Renault,1:20.398
+5,Daniel Ricciardo RIC,Red Bull Racing Renault,1:20.399
+6,Valtteri Bottas BOT,Williams Mercedes,1:20.448
+7,Felipe Massa MAS,Williams Mercedes,1:20.567
+8,Max Verstappen VER,STR Renault,1:20.710
+9,Sergio Perez PER,Force India Mercedes,1:20.716
+10,Nico Hulkenberg HUL,Force India Mercedes,1:20.788
+11,Carlos Sainz SAI,STR Renault,
+12,Romain Grosjean GRO,Lotus Mercedes,
+13,Pastor Maldonado MAL,Lotus Mercedes,
+14,Marcus Ericsson ERI,Sauber Ferrari,
+15,Kimi Räikkönen RAI,Ferrari,
+16,Fernando Alonso ALO,McLaren Honda,
+17,Felipe Nasr NAS,Sauber Ferrari,
+18,Alexander Rossi RSI,Marussia Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+1,Nico Rosberg ROS,Mercedes,1:11.282
+2,Lewis Hamilton HAM,Mercedes,1:11.360
+3,Sebastian Vettel VET,Ferrari,1:11.804
+4,Valtteri Bottas BOT,Williams Mercedes,1:12.085
+5,Kimi Räikkönen RAI,Ferrari,1:12.144
+6,Nico Hulkenberg HUL,Force India Mercedes,1:12.265
+7,Daniil Kvyat KVY,Red Bull Racing Renault,1:12.322
+8,Felipe Massa MAS,Williams Mercedes,1:12.415
+9,Daniel Ricciardo RIC,Red Bull Racing Renault,1:12.417
+10,Max Verstappen VER,STR Renault,1:12.739
+11,Felipe Nasr NAS,Sauber Ferrari,
+12,Carlos Sainz SAI,STR Renault,
+13,Sergio Perez PER,Force India Mercedes,
+14,Marcus Ericsson ERI,Sauber Ferrari,
+15,Romain Grosjean GRO,Lotus Mercedes,
+16,Pastor Maldonado MAL,Lotus Mercedes,
+17,Jenson Button BUT,McLaren Honda,
+18,Alexander Rossi RSI,Marussia Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+NC,Fernando Alonso ALO,McLaren Honda,
+1,Nico Rosberg ROS,Mercedes,1:40.237
+2,Lewis Hamilton HAM,Mercedes,1:40.614
+3,Kimi Räikkönen RAI,Ferrari,1:41.051
+4,Sergio Perez PER,Force India Mercedes,1:41.184
+5,Daniel Ricciardo RIC,Red Bull Racing Renault,1:41.444
+6,Valtteri Bottas BOT,Williams Mercedes,1:41.656
+7,Nico Hulkenberg HUL,Force India Mercedes,1:41.686
+8,Felipe Massa MAS,Williams Mercedes,1:41.759
+9,Daniil Kvyat KVY,Red Bull Racing Renault,1:41.933
+10,Carlos Sainz SAI,STR Renault,1:42.708
+11,Max Verstappen VER,STR Renault,
+12,Jenson Button BUT,McLaren Honda,
+13,Pastor Maldonado MAL,Lotus Mercedes,
+14,Felipe Nasr NAS,Sauber Ferrari,
+15,Romain Grosjean GRO,Lotus Mercedes,
+16,Sebastian Vettel VET,Ferrari,
+17,Fernando Alonso ALO,McLaren Honda,
+18,Marcus Ericsson ERI,Sauber Ferrari,
+19,Will Stevens STE,Marussia Ferrari,
+20,Roberto Merhi MER,Marussia Ferrari,
