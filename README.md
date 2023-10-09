@@ -6,15 +6,15 @@ Red Bull Racing are currently the kings of F1, winning both championships this y
 The data is sourced from the Ergast API (http://ergast.com/mrd).
 
 ## Skills I developed/improved through this project:
-## Data Collection & Processing
+# Data Collection & Processing
 - Collected data from each season's race & qualifying results and saved in .csv files
 - Cleaned and processed the data to make it usable
 
-## Analysis
+# Analysis
 - Conducted exploratory analysis using Python
 - Calculated relevant statistics for comparison between different datasets
 
-## Visualization & Reporting
+# Visualization & Reporting
 - Utilized PowerBI for effective data visualization of the results
 - Compiled and wrote a comprehensive final report, available in the `docs` directory
 
