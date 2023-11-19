@@ -1,4 +1,5 @@
 # How-Dominant-Are-Red-Bull-Really
+**Accurate as of 01/10/23**
 An Analysis of Dominance in Formula 1 Across the Years
 
 Red Bull Racing are currently the kings of F1, winning both championships this year in dominating fashion. There is no doubt this team is one of the greats, but how great are they really? Here is a short personal data analysis project I did comparing the performances of Red Bull(2023) to other dominant F1 teams from the past, including Mercedes(2015), Ferrari(2002) & McLaren(1988).
